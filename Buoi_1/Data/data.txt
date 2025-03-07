@@ -1,0 +1,7 @@
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/03/04 22:39:36 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+25/03/04 22:39:37 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+2
+/home/learnspark/anaconda3/lib/python3.12/site-packages/pyspark/python/lib/pyspark.zip/pyspark/daemon.py:154: DeprecationWarning:
+
+This process (pid=18104) is multi-threaded, use of fork() may lead to deadlocks in the child.
